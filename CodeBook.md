@@ -1,3 +1,8 @@
+# Variables in the final data set output by run_analysis.R are as follows.  
+- Subject: ID number of participated subjects
+- Activity: 6 types of activities monitored  
+- Other 66 variables: average of each feature on mean and standard deviation in UCI HAR Dataset for each activity and each subject
+
 # The run_analysis.R script performs the following steps to meet the requirements as described in the course project instruction.
 
 ## 1. Load the packages used in this analysis
